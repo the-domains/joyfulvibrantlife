@@ -1,20 +1,4 @@
-name: Joyfulvibrantlife
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.5012
-title: Joyful Vibrant Life
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fefd0c'
@@ -22,8 +6,28 @@ color:
     - '#350e00'
     - '#fe8500'
     - '#12b439'
-  brandStrength: 0.5
+  brandStrength: 0.25
   lightness: 0.1875
   saturation: 0.5
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Joyfulvibrantlife
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: home
+    id: c86e6cdd-587c-45e0-8bad-8e84fd08686d
+    type: content
+favicon: null
+title: Joyful Vibrant Life
 purpose: []
