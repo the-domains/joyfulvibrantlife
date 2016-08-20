@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Joyful Vibrant Life]]></title>
         <description><![CDATA[Joyful Vibrant Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joyfulvibrantlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 01:35:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Aug 2016 00:33:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joyfulvibrantlife/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61cfb16a-4f6b-46bb-b743-f3c877e8a867.jpg">]]></description>
+            <link>https://thegrid.ai/joyfulvibrantlife/f80bf751-0634-4b8f-b5d3-3ab5b2f3fb53/index.html</link>
+            <guid isPermaLink="false">f80bf751-0634-4b8f-b5d3-3ab5b2f3fb53</guid>
+            <pubDate>Sat, 20 Aug 2016 00:33:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Holiday Blessings]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf37617f-2aa3-4535-98f0-bf5658ba7564.jpg">]]></description>
-            <link>undefinedholiday-blessings/index.html</link>
+            <link>https://thegrid.ai/joyfulvibrantlife/holiday-blessings/index.html</link>
             <guid isPermaLink="false">18206a80-4a38-4a0f-9aee-0c5825f078a2</guid>
             <pubDate>Thu, 18 Aug 2016 01:35:52 GMT</pubDate>
         </item>
