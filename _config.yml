@@ -1,4 +1,3 @@
-layout_spectrum: 0.5512940071057528
 typography_spectrum: 0.7720584648195654
 color:
   brandColors:
@@ -16,10 +15,15 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/15421f56-0f5e-405c-865b-bfdcf30c18b5.png
   type: null
   appId: null
+layout_spectrum: 0.5512940071057528
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Sandy Freschi
+  email: coachingwithsandy@gmail.com
+  url: 'http://www.coachingwithsandy.com'
 name: Joyful Vibrant Life
 cta:
   domain: null
