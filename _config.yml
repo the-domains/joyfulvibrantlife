@@ -1,21 +1,21 @@
-typography_spectrum: 0.5012
+layout_spectrum: 0.7748253226745874
+typography_spectrum: 0.061528272926807404
 color:
   brandColors:
-    - '#dc0773'
-    - '#ffa640'
-    - '#ee4446'
-    - '#fff9ff'
-    - '#d66da9'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.480755785247311
+  lightness: 0.8205762659199536
+  saturation: 0.04360396903939545
+  rhythmicContrast: 0.2320723570883274
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/15421f56-0f5e-405c-865b-bfdcf30c18b5.png
   type: null
   appId: null
-layout_spectrum: 1
 analytics:
   google: null
   facebook: null
