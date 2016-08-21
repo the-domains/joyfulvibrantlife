@@ -11,7 +11,8 @@ color:
   saturation: 0.5
   rhythmicContrast: 0
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/15421f56-0f5e-405c-865b-bfdcf30c18b5.png
   type: null
   appId: null
 layout_spectrum: 1
@@ -28,7 +29,7 @@ navigation:
   - name: home
     id: c86e6cdd-587c-45e0-8bad-8e84fd08686d
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e0e1a2-7a47-4eff-b859-e0e7ca57a0b1.png
 title: Joyful Vibrant Life
-description: Thrive Joyfully in a Stressful World
 purpose: []
