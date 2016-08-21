@@ -2,6 +2,10 @@ name: Joyfulvibrantlife
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.5012
+navigation:
+  - name: home
+    id: c86e6cdd-587c-45e0-8bad-8e84fd08686d
+    type: content
 title: Joyful Vibrant Life
 cta:
   domain: null
@@ -17,12 +21,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefd0c'
-    - '#fe3200'
-    - '#350e00'
-    - '#fe8500'
-    - '#12b439'
-  brandStrength: 0.25
+    - '#fefe00'
+    - '#02fa00'
+    - '#fc0000'
+    - '#0000fa'
+    - '#ff8400'
+  brandStrength: 0.5
   lightness: 0.1875
   saturation: 0.5
   rhythmicContrast: 0
