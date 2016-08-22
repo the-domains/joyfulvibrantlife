@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About
-    url: 'http://coachingwithsandy.com/about-me/'
-    type: external
   - name: Services
     url: 'http://coachingwithsandy.com/services/'
     type: external
