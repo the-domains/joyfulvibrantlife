@@ -63,8 +63,8 @@ app_links:
     namespace: google
     type: ios
 title: Group Meditation - Chaos to Calm
-datePublished: '2016-08-22T00:59:49.962Z'
-dateModified: '2016-08-22T00:59:49.518Z'
+datePublished: '2016-08-22T02:09:47.182Z'
+dateModified: '2016-08-22T02:09:47.032Z'
 via: {}
 sourcePath: _posts/2016-08-22-group-meditation-chaos-to-calm.md
 hasPage: true
