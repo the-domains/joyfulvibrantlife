@@ -1,4 +1,13 @@
 ---
+datePublished: '2016-08-22T23:54:18.015Z'
+sourcePath: _posts/2016-08-22-the-natural-flow-of-exchange.md
+author: []
+via: {}
+dateModified: '2016-08-22T23:54:17.747Z'
+title: The Natural Flow of Exchange
+publisher:
+  name: sandy Freschi
+  url: 'http://www.coachingwithsandy.com'
 description: >-
   Every living thing has a balance which is dependent upon exchange for its
   well-being. It requires each entity to provide something of value that the
@@ -9,14 +18,7 @@ description: >-
   carbon dioxide for nourishment and then make the oxygen that they release for
   us to use. The give and take happens so naturally that we don’t even think
   about it.
-dateModified: '2016-08-22T23:48:59.111Z'
-datePublished: '2016-08-22T23:49:06.540Z'
-title: The Natural Flow of Exchange
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-22-the-natural-flow-of-exchange.md
 inFeed: true
 hasPage: false
 inNav: false
