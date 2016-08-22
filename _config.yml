@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Articles
-    id: a6bc6d20-69e6-46c8-9b28-f86a32634d7e
-    type: content
   - name: Videos
     id: aa7764bb-8246-49ca-ba67-fa61b80486ac
     type: content
