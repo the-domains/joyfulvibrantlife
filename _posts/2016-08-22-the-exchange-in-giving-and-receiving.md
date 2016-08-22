@@ -1,13 +1,13 @@
 ---
 description: The Exchange in Giving & Receiving
-dateModified: '2016-08-22T01:47:48.253Z'
-datePublished: '2016-08-22T01:47:59.479Z'
+dateModified: '2016-08-22T02:09:33.380Z'
+datePublished: '2016-08-22T02:09:33.523Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-22-the-exchange-in-giving-and-receiving.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
