@@ -18,8 +18,8 @@ description: >-
   http://www.coachingwithsandy.com Are you feeling chaotic inside and sensitive
   to the drama around you? Do you want to be the calm amid the storms in your
   life? Here are some practical tools to release, renew and revive your energy.
-datePublished: '2016-08-22T11:43:00.425Z'
-dateModified: '2016-08-22T11:41:22.825Z'
+datePublished: '2016-08-22T19:35:56.031Z'
+dateModified: '2016-08-22T19:35:55.180Z'
 author:
   - name: Sandy Freschi
     url: 'https://www.youtube.com/user/coachingwithsandy'
