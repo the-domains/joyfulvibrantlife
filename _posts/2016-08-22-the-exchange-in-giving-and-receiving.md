@@ -1,17 +1,25 @@
 ---
-datePublished: '2016-08-22T11:41:50.470Z'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
+description: The Exchange in Giving & Receiving
+datePublished: '2016-08-22T11:43:32.490Z'
+dateModified: '2016-08-22T11:43:29.569Z'
 sourcePath: _posts/2016-08-22-the-exchange-in-giving-and-receiving.md
 author: []
 via: {}
-dateModified: '2016-08-22T11:37:05.899Z'
 title: ''
-publisher: {}
-description: The Exchange in Giving & Receiving
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: the-exchange-in-giving-and-receiving/index.html
+_type: Article
 
 ---
 **The Exchange in Giving & Receiving**
