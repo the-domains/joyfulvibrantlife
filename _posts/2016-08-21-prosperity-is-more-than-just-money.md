@@ -5,16 +5,16 @@ description: >-
   the only definition. Prosperity can also be defined as “thriving” and
   “flourishing”. There is a common misconception that if you are financially
   prosperous you are thriving and flourishing. 
-dateModified: '2016-08-21T13:46:43.943Z'
-datePublished: '2016-08-21T13:47:36.795Z'
+dateModified: '2016-08-22T00:11:57.014Z'
+datePublished: '2016-08-22T00:11:57.148Z'
 title: Prosperity is More than Just Money
 author: []
 publisher:
   name: Sandy Freschi
   url: 'http://www.coachingwithsandy.com'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-prosperity-is-more-than-just-money.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
