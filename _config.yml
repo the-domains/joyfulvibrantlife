@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Videos
-    id: aa7764bb-8246-49ca-ba67-fa61b80486ac
-    type: content
   - name: About
     url: 'http://coachingwithsandy.com/about-me/'
     type: external
