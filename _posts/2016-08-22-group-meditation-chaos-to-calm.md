@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Sandy Freschi
-    url: 'https://www.youtube.com/user/coachingwithsandy'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - meditations
   - duration
@@ -24,7 +18,13 @@ description: >-
   http://www.coachingwithsandy.com Are you feeling chaotic inside and sensitive
   to the drama around you? Do you want to be the calm amid the storms in your
   life? Here are some practical tools to release, renew and revive your energy.
-inLanguage: en
+datePublished: '2016-08-22T11:43:00.425Z'
+dateModified: '2016-08-22T11:41:22.825Z'
+author:
+  - name: Sandy Freschi
+    url: 'https://www.youtube.com/user/coachingwithsandy'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=qO7D6nFiOYQ&feature=applinks'
     type: ios
@@ -63,14 +63,14 @@ app_links:
     namespace: google
     type: ios
 title: Group Meditation - Chaos to Calm
-datePublished: '2016-08-22T11:41:15.954Z'
-dateModified: '2016-08-22T02:34:37.561Z'
 via: {}
 sourcePath: _posts/2016-08-22-group-meditation-chaos-to-calm.md
-hasPage: true
-inFeed: true
-inNav: false
 authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
 url: group-meditation-chaos-to-calm/index.html
 _type: VideoObject
