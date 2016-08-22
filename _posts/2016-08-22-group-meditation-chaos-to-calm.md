@@ -62,16 +62,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/qO7D6nFiOYQ'
 title: Group Meditation - Chaos to Calm
-datePublished: '2016-08-22T00:58:58.710Z'
-dateModified: '2016-08-22T00:40:04.285Z'
+datePublished: '2016-08-22T00:59:49.962Z'
+dateModified: '2016-08-22T00:59:49.518Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-22-group-meditation-chaos-to-calm.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: group-meditation-chaos-to-calm/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
