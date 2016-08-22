@@ -1,8 +1,19 @@
+layout_spectrum: 0.44146779319271445
+typography_spectrum: 0.9173694646451622
+color:
+  brandColors:
+    - '#FEFEFE'
+    - '#FDCD00'
+    - '#49D5F8'
+    - '#FE6104'
+    - '#294B64'
+  brandStrength: 0.4379133388865739
+  lightness: 0.7944606011733413
+  saturation: 0.033289270009845495
+  rhythmicContrast: 0.2464995919726789
 name: Joyful Vibrant Life
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e0e1a2-7a47-4eff-b859-e0e7ca57a0b1.png
-layout_spectrum: 0.6898637504782528
-typography_spectrum: 0.9984525982290506
 author:
   name: Sandy Freschi
   email: coachingwithsandy@gmail.com
@@ -23,15 +34,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FFFDFF'
-    - '#ADABAE'
-    - '#F7918C'
-    - '#676360'
-    - '#E06776'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0
 purpose: []
