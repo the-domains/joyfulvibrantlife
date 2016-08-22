@@ -1,4 +1,28 @@
+name: Joyful Vibrant Life
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e0e1a2-7a47-4eff-b859-e0e7ca57a0b1.png
+layout_spectrum: 0.6464301727246493
 typography_spectrum: 0.28689319896511734
+author:
+  name: Sandy Freschi
+  email: coachingwithsandy@gmail.com
+  url: 'http://coachingwithsandy.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/53779a38-46b0-4963-a689-fae5f502c833.jpg
+title: Fresh Perspectives
+description: To Thrive in a Stressful World
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-82992219-1
+  facebook: '599930050163860'
+  twitter: sandyfreschi
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#F2385A'
@@ -6,32 +30,8 @@ color:
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-  brandStrength: 0.13081575580872595
+  brandStrength: 0.5
   lightness: 0.7577140289358795
   saturation: 0.46954876370728016
   rhythmicContrast: 0.07698555081151426
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.6464301727246493
-analytics:
-  google: UA-82992219-1
-  facebook: '599930050163860'
-  twitter: sandyfreschi
-author:
-  name: Sandy Freschi
-  email: coachingwithsandy@gmail.com
-  url: 'http://coachingwithsandy.com'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/53779a38-46b0-4963-a689-fae5f502c833.jpg
-name: Joyful Vibrant Life
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e0e1a2-7a47-4eff-b859-e0e7ca57a0b1.png
-title: Fresh Perspectives
-description: To Thrive in a Stressful World
 purpose: []
