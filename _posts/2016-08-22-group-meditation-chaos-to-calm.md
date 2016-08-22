@@ -1,8 +1,9 @@
 ---
+datePublished: '2016-08-22T20:02:03.568Z'
+sourcePath: _posts/2016-08-22-group-meditation-chaos-to-calm.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: en
 keywords:
   - meditations
   - duration
@@ -14,19 +15,13 @@ keywords:
   - coachingwithsandy
   - guided
   - chaos
-description: >-
-  http://www.coachingwithsandy.com Are you feeling chaotic inside and sensitive
-  to the drama around you? Do you want to be the calm amid the storms in your
-  life? Here are some practical tools to release, renew and revive your energy.
-datePublished: '2016-08-22T19:47:04.740Z'
-dateModified: '2016-08-22T19:44:41.287Z'
-sourcePath: _posts/2016-08-22-group-meditation-chaos-to-calm.md
 related: []
 author:
   - name: Sandy Freschi
     url: 'https://www.youtube.com/user/coachingwithsandy'
     avatar: {}
 via: {}
+dateModified: '2016-08-22T20:02:03.039Z'
 title: Group Meditation - Chaos to Calm
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=qO7D6nFiOYQ&feature=applinks'
@@ -65,12 +60,17 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-authors: []
 publisher:
   name: YouTube
   domain: youtu.be
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+description: >-
+  http://www.coachingwithsandy.com Are you feeling chaotic inside and sensitive
+  to the drama around you? Do you want to be the calm amid the storms in your
+  life? Here are some practical tools to release, renew and revive your energy.
+inLanguage: en
+inNav: false
 starred: true
 url: group-meditation-chaos-to-calm/index.html
 _context: 'http://schema.org'
