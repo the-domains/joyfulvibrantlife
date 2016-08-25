@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T23:53:36.887Z'
+datePublished: '2016-08-25T16:51:08.218Z'
 sourcePath: _posts/2016-08-22-group-meditation-chaos-to-calm.md
 inFeed: true
 authors: []
@@ -21,7 +21,7 @@ author:
     url: 'https://www.youtube.com/user/coachingwithsandy'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T23:53:30.119Z'
+dateModified: '2016-08-25T16:51:07.095Z'
 title: 'Group Meditation '
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=qO7D6nFiOYQ&feature=applinks'
