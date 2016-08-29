@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-22T23:54:18.015Z'
+datePublished: '2016-08-28T01:14:31.500Z'
 sourcePath: _posts/2016-08-22-the-natural-flow-of-exchange.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T23:54:17.747Z'
+dateModified: '2016-08-28T01:14:31.195Z'
 title: The Natural Flow of Exchange
 publisher:
   name: sandy Freschi
@@ -19,10 +21,8 @@ description: >-
   us to use. The give and take happens so naturally that we don’t even think
   about it.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: the-natural-flow-of-exchange/index.html
+_type: Article
 
 ---
 ![The Natural Flow of Exchange](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ce944be-6dc2-40b7-979e-5d4047040545.jpg)
