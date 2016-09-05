@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T16:51:08.218Z'
+datePublished: '2016-09-02T02:12:23.777Z'
 sourcePath: _posts/2016-08-22-group-meditation-chaos-to-calm.md
 inFeed: true
 authors: []
@@ -21,8 +21,8 @@ author:
     url: 'https://www.youtube.com/user/coachingwithsandy'
     avatar: {}
 via: {}
-dateModified: '2016-08-25T16:51:07.095Z'
-title: 'Group Meditation '
+dateModified: '2016-09-02T02:12:22.845Z'
+title: Group Meditation
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=qO7D6nFiOYQ&feature=applinks'
     type: ios
@@ -71,12 +71,12 @@ description: >-
   life? Here are some practical tools to release, renew and revive your energy.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 url: group-meditation/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-# Group Meditation 
+# Group Meditation
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FqO7D6nFiOYQ%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqO7D6nFiOYQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqO7D6nFiOYQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
