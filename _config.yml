@@ -1,29 +1,14 @@
-layout_spectrum: 0.25929141673259437
-typography_spectrum: 0.5759865546133369
-color:
-  brandColors:
-    - '#FFC300'
-    - '#900C3E'
-    - '#FF5733'
-    - '#571845'
-    - '#A33962'
-  brandStrength: 0.8878654993604869
-  lightness: 0.3312114435248077
-  saturation: 0.9114478090777993
-  rhythmicContrast: 0.31805395102128386
-opengraph: {}
-analytics:
-  facebook: '599930050163860'
-  google: UA-82992219-1
-  twitter: sandyfreschi
+name: Joyful Vibrant Life
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e0e1a2-7a47-4eff-b859-e0e7ca57a0b1.png
+layout_spectrum: 0.56498
+typography_spectrum: 0.55776
 author:
   name: Sandy Freschi
   url: 'http://coachingwithsandy.com'
   email: coachingwithsandy@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/53779a38-46b0-4963-a689-fae5f502c833.jpg
-name: Joyful Vibrant Life
-cta: {}
 navigation:
   - name: About
     url: 'http://coachingwithsandy.com/about-me/'
@@ -38,8 +23,29 @@ navigation:
     url: >-
       http://www.quantumtouch.com/index.php?option=com_training&view=training&Itemid=179&partner_id=1000009457
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e0e1a2-7a47-4eff-b859-e0e7ca57a0b1.png
 title: Fresh Perspectives
 description: to thrive in a stressful world
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-82992219-1
+  facebook: '599930050163860'
+  twitter: sandyfreschi
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFC300'
+    - '#900C3E'
+    - '#FF5733'
+    - '#571845'
+    - '#A33962'
+  brandStrength: 0.6875
+  lightness: 0.3312114435248077
+  saturation: 0.5
+  rhythmicContrast: 0.31805395102128386
 purpose: []
