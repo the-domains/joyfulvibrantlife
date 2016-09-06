@@ -1,7 +1,8 @@
 ---
-datePublished: '2016-09-02T11:57:53.652Z'
+datePublished: '2016-09-02T11:58:13.422Z'
 sourcePath: _posts/2016-09-02-relaxing-aquarium-meditation.md
-isBasedOnUrl: 'https://youtu.be/IzyF1O3VYcQ'
+inFeed: true
+hasPage: true
 keywords:
   - freschi
   - duration
@@ -19,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/coachingwithsandy'
     avatar: {}
 via: {}
-dateModified: '2016-09-02T11:57:53.291Z'
+dateModified: '2016-09-02T11:58:13.006Z'
 title: Relaxing Aquarium Meditation
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=IzyF1O3VYcQ&feature=applinks'
@@ -71,9 +72,7 @@ description: >-
   #relaxation #Ripley's Aquarium Musical Attribution: "Music by Thaddeus"
 inLanguage: en
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: relaxing-aquarium-meditation/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
