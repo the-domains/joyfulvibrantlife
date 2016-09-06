@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Sandy Freschi
-    url: 'https://www.youtube.com/user/coachingwithsandy'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+datePublished: '2016-09-02T11:57:13.284Z'
+sourcePath: _posts/2016-09-02-meditation-healing-the-pain-of-disappointment.md
+inFeed: true
+hasPage: true
 keywords:
   - meditation
   - duration
@@ -20,13 +14,14 @@ keywords:
   - anxiety
   - mini-breaks
   - sandy
-description: >-
-  May 2016 Power Half Hour Mini-Break includes a meditation to heal
-  disappointment and pain All of the exercises we do in the Power Half Hour
-  Mini-Breaks are meant to activate your own self-healing abilities. This
-  month's meditation focuses on healing disappointment, bitterness, anger,
-  resentment and pain.
-inLanguage: en
+related: []
+author:
+  - name: Sandy Freschi
+    url: 'https://www.youtube.com/user/coachingwithsandy'
+    avatar: {}
+via: {}
+dateModified: '2016-09-02T11:57:12.864Z'
+title: Healing the Pain of Disappointment
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=aITecJSSWP4&feature=applinks'
     type: ios
@@ -64,18 +59,24 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/aITecJSSWP4'
-title: Meditation - Healing the Pain of Disappointment
-datePublished: '2016-09-02T11:56:05.586Z'
-dateModified: '2016-09-02T11:55:58.354Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+description: >-
+  May 2016 Power Half Hour Mini-Break includes a meditation to heal
+  disappointment and pain All of the exercises we do in the Power Half Hour
+  Mini-Breaks are meant to activate your own self-healing abilities. This
+  month's meditation focuses on healing disappointment, bitterness, anger,
+  resentment and pain.
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-09-02-meditation-healing-the-pain-of-disappointment.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: VideoObject
+url: healing-the-pain-of-disappointment/index.html
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
+# Healing the Pain of Disappointment
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FaITecJSSWP4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaITecJSSWP4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaITecJSSWP4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
